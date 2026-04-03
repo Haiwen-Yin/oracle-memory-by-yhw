@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)]()
 [![Oracle](https://img.shields.io/badge/Oracle-23ai%2F26ai-red.svg)]()
 [![MCP](https://img.shields.io/badge/MCP-SQLcl-green.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-green.svg)]()
+[![License](https://img.shields.io/badge/license-apache2.0-green.svg)]()
 
 ---
 
