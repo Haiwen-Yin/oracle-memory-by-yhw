@@ -256,7 +256,7 @@ Contributions welcome! Please open an issue or submit a PR.
 
 ## License
 
-MIT
+Apache 2.0
 
 ---
 
