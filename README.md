@@ -122,13 +122,13 @@ Transform any Oracle AI Database (23ai/26ai) instance into a powerful, **AI-nati
 
 ## Prerequisites
 
-|| Requirement | Version | Notes ||
-|--|--|--||
-|**Oracle AI Database**|23ai (23.6+) or **26ai**| ⚠️ **Self-provided — this skill does NOT include a database.** Download from [Oracle](https://www.oracle.com/ai-database/) or use Oracle Cloud. Must have VECTOR type support and JRD capability.||
-|**Java JDK**|17+ (21+ recommended)|Required for SQLcl MCP server||
-|**SQLcl**|**v26.1 Production** (recommended) | Download from [Oracle](https://www.oracle.com/database/sqlcl/) ||
-|**Embedding Service**|LM Studio or Ollama| LM Studio recommended for local use with Chinese optimization ||
-|**Embedding Model**|bge-m3 or nomic-embed-text| 1024 dimensions, Chinese-optimized ||
+| Requirement | Version | Notes |
+|--|--|--|
+|**Oracle AI Database**|23ai (23.6+) or **26ai**| ⚠️ **Self-provided — this skill does NOT include a database.** Download from [Oracle](https://www.oracle.com/ai-database/) or use Oracle Cloud. Must have VECTOR type support and JRD capability.|
+|**Java JDK**|17+ (21+ recommended)|Required for SQLcl MCP server|
+|**SQLcl**|**v26.1 Production** (recommended) | Download from [Oracle](https://www.oracle.com/database/sqlcl/) |
+|**Embedding Service**|LM Studio or Ollama| LM Studio recommended for local use with Chinese optimization |
+|**Embedding Model**|bge-m3 or nomic-embed-text| 1024 dimensions, Chinese-optimized |
 
 ## Installation
 
