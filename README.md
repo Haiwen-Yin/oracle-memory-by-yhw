@@ -135,14 +135,11 @@ Transform any Oracle AI Database (23ai/26ai) instance into a powerful, **AI-nati
 ### Step 1: Install the Skill (v0.2.0)
 
 ```bash
-# Option A: From ClawHub (recommended for v0.2.0)
-openclaw skills install oracle-memory-by-yhw
-
-# Option B: Manual download from GitHub
+# Option A: Manual download from GitHub
 cd ~/.hermes/skills/openclaw-imports/
 unzip /path/to/oracle-memory-by-yhw-0.2.0.zip
 
-# Option C: Clone repository directly
+# Option B: Clone repository directly
 git clone https://github.com/Haiwen-Yin/oracle-memory-by-yhw.git \
   ~/.hermes/skills/openclaw-imports/oracle-memory-by-yhw
 ```
