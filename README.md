@@ -318,21 +318,21 @@ Guides you through database connection, embedding service selection, and **JRD c
 
 ### Environment Variables (v26.1)
 
-|| Variable | Default | Description ||
+| Variable | Default | Description |
 |--|--|--|
-|`ORACLE_HOST`|`localhost`|Database host||
-|`ORACLE_PORT`|`1521`|Database port||
-|`ORACLE_SERVICE`|`ORCL`|Database service name||
-|`ORACLE_USER`|—|Database username (required)||
-|`ORACLE_PASS`|—|Database password (required)||
-|`SQLCL_PATH`|`sql`|Path to SQLcl binary v26.1||
-|`JAVA_HOME`|—|JDK installation path||
-|`EMBEDDING_SOURCE`|`auto`|"lmstudio", "ollama", or "auto" (default)||
-|`LMSTUDIO_BASE_URL`|—|LM Studio API endpoint||
-|`LMSTUDIO_MODEL`|`text-embedding-bge-m3`|Embedding model for LM Studio||
-|`OLLAMA_HOST`|`localhost`|Ollama host||
-|`OLLAMA_PORT`|`11434`|Ollama port||
-|`OLLAMA_MODEL`|`bge-m3`|Embedding model for Ollama||
+|`ORACLE_HOST`|`localhost`|Database host|
+|`ORACLE_PORT`|`1521`|Database port|
+|`ORACLE_SERVICE`|`ORCL`|Database service name|
+|`ORACLE_USER`|—|Database username (required)|
+|`ORACLE_PASS`|—|Database password (required)|
+|`SQLCL_PATH`|`sql`|Path to SQLcl binary v26.1|
+|`JAVA_HOME`|—|JDK installation path|
+|`EMBEDDING_SOURCE`|`auto`|"lmstudio", "ollama", or "auto" (default)|
+|`LMSTUDIO_BASE_URL`|—|LM Studio API endpoint|
+|`LMSTUDIO_MODEL`|`text-embedding-bge-m3`|Embedding model for LM Studio|
+|`OLLAMA_HOST`|`localhost`|Ollama host|
+|`OLLAMA_PORT`|`11434`|Ollama port|
+|`OLLAMA_MODEL`|`bge-m3`|Embedding model for Ollama|
 
 ### Advanced JRD Configuration
 
