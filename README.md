@@ -335,7 +335,6 @@ ALTER TRIGGER trg_memories_updated_at ENABLE;
 
 - **Complete Technical Reference**: [SKILL.md](SKILL.md) - Full API documentation and usage guide
 - **Version History**: [CHANGELOG.md](CHANGELOG.md) - Migration guides and breaking changes  
-- **Additional Diagrams**: [ADDITIONAL_DIAGRAMS.md](ADDITIONAL_DIAGRAMS.md) - Visual architecture diagrams
 - **Oracle AI Database Docs**: https://docs.oracle.com/en/database/oracle/26ai/index.html
 - **DBMS_VECTOR_DATABASE API**: https://docs.oracle.com/en/database/oracle/23/arpls/DBMS_VECTOR_DATABASE.html
 - **Active Data Guard Guide**: https://docs.oracle.com/en/database/data-guard/index.html
