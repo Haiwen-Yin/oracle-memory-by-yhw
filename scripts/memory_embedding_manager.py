@@ -13,8 +13,9 @@ Features:
 """
 
 import json
+import os
+import sys
 import requests
-from hermes_tools import terminal, read_file, write_file
 
 
 class MemoryEmbeddingManager:

@@ -35,7 +35,7 @@ class MemoryReadSplitter:
         Returns:
             dict: Terminal execution result
         """
-        from hermes_tools import terminal
+        
         
         # Write operations MUST go to primary for data consistency
         result = terminal(
@@ -54,7 +54,7 @@ class MemoryReadSplitter:
         Returns:
             dict: Terminal execution result
         """
-        from hermes_tools import terminal
+        
         
         try:
             # Try standby first for load balancing
@@ -83,7 +83,7 @@ class MemoryReadSplitter:
         Returns:
             dict: Terminal execution result
         """
-        from hermes_tools import terminal
+        
         
         # Normalize SQL for detection
         sql_upper = sql.upper().strip()
