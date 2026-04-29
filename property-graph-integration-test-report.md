@@ -10,7 +10,7 @@
 
 ## 🎯 Test Objective
 
-验证 Property Graph (mem_graph) 的创建、配置和查询功能是否正常工作，支持多跳遍历和语义关系查询。
+Verify Property Graph (mem_graph) creation, configuration, and query functionality. Support multi-hop traversal and semantic relationship queries.
 
 ---
 
